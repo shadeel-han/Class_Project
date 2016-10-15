@@ -1,0 +1,25 @@
+﻿已經開始建置於 2011/6/12 上午 11:51:37。
+     1>節點 2 (build 目標) 上的專案 "D:\Documents and Settings\shadeel\桌面\影像處理\FinalProject\FinalProject\FinalProject\FinalProject.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Release\FinalProject.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+       CoreResGen:
+         所有輸出都是最新的。
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         所有輸出都是最新的。
+         FinalProject.vcxproj -> D:\Documents and Settings\shadeel\桌面\影像處理\FinalProject\FinalProject\Release\FinalProject.exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "Release\FinalProject.unsuccessfulbuild"。
+         正在變更時間戳記 "Release\FinalProject.lastbuildstate"。
+     1>專案 "D:\Documents and Settings\shadeel\桌面\影像處理\FinalProject\FinalProject\FinalProject\FinalProject.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.18
