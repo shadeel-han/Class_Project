@@ -1,0 +1,32 @@
+﻿已經開始建置於 2011/12/27 下午 12:22:21。
+     1>節點 2 (build 目標) 上的專案 "D:\Documents and Settings\shadeel\My Documents\Visual Studio 2010\Projects\DIPfinal\DIPfinal\DIPfinal.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Release\DIPfinal.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\DIPfinal.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"D:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt DIPfinal.cpp /clr:nostdlib 
+         DIPfinal.cpp
+         所有輸出都是最新的。
+       CoreResGen:
+         所有輸出都是最新的。
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents and Settings\shadeel\My Documents\Visual Studio 2010\Projects\DIPfinal\Release\DIPfinal.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\DIPfinal.Form1.resources /MANIFEST /ManifestFile:"Release\DIPfinal.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Documents and Settings\shadeel\My Documents\Visual Studio 2010\Projects\DIPfinal\Release\DIPfinal.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         Release\DIPfinal.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         DIPfinal.vcxproj -> D:\Documents and Settings\shadeel\My Documents\Visual Studio 2010\Projects\DIPfinal\Release\DIPfinal.exe
+       Manifest:
+         d:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Documents and Settings\shadeel\My Documents\Visual Studio 2010\Projects\DIPfinal\Release\DIPfinal.exe;#1" /manifest Release\DIPfinal.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Release\DIPfinal.unsuccessfulbuild"。
+         正在變更時間戳記 "Release\DIPfinal.lastbuildstate"。
+     1>專案 "D:\Documents and Settings\shadeel\My Documents\Visual Studio 2010\Projects\DIPfinal\DIPfinal\DIPfinal.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.76
