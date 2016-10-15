@@ -3,7 +3,7 @@ by maximal similarity based region merging". It could only be run on Windows fam
 operating system since it was manufactured under Visual Studio for using the .Net 
 framework and its UI component.
 
-Exection files(.exe) locates in /FinalProject/Debug or /FinalProject/Debug.
+Exection files(.exe) locates in /DIPfinal/Debug or /DIPfinal/Release.
 Under author's test, they could be successfully opened on WiondowsXP and 7.
 You should obey following steps to operate exection files, or some segmentation
 faults may happen and crash the program.
