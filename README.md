@@ -1,5 +1,5 @@
 # Class Project
 Past Class Project
 
-## Repo Status
-May upload but no more update to projects
+## Repository Status
+May upload playable or interesting projects but no more update to any details
