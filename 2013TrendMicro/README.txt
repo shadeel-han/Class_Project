@@ -1,7 +1,7 @@
 View2See is a recommendation system for best-viewing location of sightseeing spots.
 Our team proposed and built this project during the 2013 Trend Micro Big Data Innovation 
-Programming Contest. Team members are ´¿¤åª@(Vincent), ³Å©Ó³ó(David), ½²¨Ø¯¾(Vivi) and
-me Áú¬F§Ê(Shadeel). We were all National Taiwan University students at that time.
+Programming Contest. Team members are æ›¾æ–‡æ˜‡(Vincent), å‚…æ‰¿å ¯(David), è”¡ä½©ç´‹(Vivi) and
+me éŸ“æ”¿å»·(Shadeel). We were all National Taiwan University students at that time.
 
 Several years has passed and View2See has gone. This repository is in memory of our past 
 glory, so I only put a Chinese version proposal and a presentation slide here. If someone 
